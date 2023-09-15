@@ -86,6 +86,10 @@ p {
         display: none;
     }
 
+    #bt-4-css {
+        margin: 25px 22px auto 375px;
+    }
+
     #b-sign-up {
         font-weight: 500;
         font-size: 20px;
@@ -93,7 +97,6 @@ p {
         width: 113px;
         height: 50px;
         position: static;
-        margin: 25px 22px auto 375px;
     }
 
     #main-content {
